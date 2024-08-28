@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApi_Video.props" />
+</Project>
